@@ -47,22 +47,8 @@ MySQL 설정
 에 접속해 주시면 됩니다.
 
 
-# 실행화면
-
-### < 타임라인(메인페이지) >
-![timeline](http://oursoccer.co.kr/study/reserve/img/home_img.png)
-
-
-### < 글쓰기 페이지 >
-![boardWrite](http://oursoccer.co.kr/study/reserve/img/blog_write.png)
-
-
-### < 소스저장소 >
-![gitDirectory](http://oursoccer.co.kr/study/reserve/img/git_directory.png)
-
-
-
 # 소개 자료,영상 링크
+
 [PPT URL](http://www.slideshare.net/ssuser980538/codefolio-ppt-56740769)
 
 [YOUTUBE URL](https://youtu.be/P7sICkc1dsY)
